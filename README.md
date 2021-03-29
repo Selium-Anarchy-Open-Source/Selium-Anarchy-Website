@@ -5,7 +5,8 @@ This is a webiste for an anarchy server
 * **[SpicyHamBoi (@SpicyHamBoi)](https://github.com/SpicyHamBoi)** 
 
 ## Built with
-* [HTMl]
+* HTML
+* CSS(coming soon)
 
 ## Issues or Questions
 
@@ -15,6 +16,6 @@ Dm me on discord(SpicyHamBoi#8998)
 Post them [here](https://github.com/SpicyHamBoi/Selium-Anarchy-Website/issues)
 
 
-##Btw the site is in massive devlopment, so it hasn't got a domain or any css styling.
+Btw the site is in massive devlopment, so it hasn't got a domain or any css styling.
 
 -SpicyHamBoy a.k.a. Selium Anarchy Team
