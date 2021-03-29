@@ -1,5 +1,5 @@
 # Selium-Anarchy-Website
-This is a webiste for an anarchy server
+This is a webiste for a minecraft anarchy server.
 
 ## Devlopers
 * **[SpicyHamBoi (@SpicyHamBoi)](https://github.com/SpicyHamBoi)** 
