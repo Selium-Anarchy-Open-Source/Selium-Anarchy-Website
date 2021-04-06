@@ -13,13 +13,12 @@ This is a webiste for a minecraft anarchy server.
 
 If you have any issues or questions, you can:
 
-#Contact the Selium Anarchy owners on discord
+Contact the Selium Anarchy owners on discord
 
 SpicyHamBoi#8998 HamQ1#4016
 
 Post them [here](https://github.com/SpicyHamBoi/Selium-Anarchy-Website/issues)
 
-
 Btw the site is in massive devlopment, so it hasn't got a domain or any css styling.
 
--SpicyHamBoy a.k.a. Selium Anarchy Team
+-Selium Anarchy Staff
