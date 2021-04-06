@@ -19,6 +19,6 @@ SpicyHamBoi#8998 HamQ1#4016
 
 Post them [here](https://github.com/SpicyHamBoi/Selium-Anarchy-Website/issues)
 
-Btw the site is in massive devlopment, so it hasn't got a domain or any css styling.
+p.s. (the site is in massive devlopment, so it hasn't got a domain or any css styling.)
 
 -Selium Anarchy Staff
