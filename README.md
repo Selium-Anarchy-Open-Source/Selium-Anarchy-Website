@@ -13,7 +13,7 @@ This is a webiste for a minecraft anarchy server.
 
 If you have any issues or questions, you can:
 
-##Contact the Selium Anarchy owners on discord
+#Contact the Selium Anarchy owners on discord
 
 SpicyHamBoi#8998 HamQ1#4016
 
