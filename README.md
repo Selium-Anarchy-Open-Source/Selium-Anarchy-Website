@@ -3,6 +3,7 @@ This is a webiste for a minecraft anarchy server.
 
 ## Devlopers
 * **[SpicyHamBoi (@SpicyHamBoi)](https://github.com/SpicyHamBoi)** 
+* **[HamQ1 (@HamQ1)](https://github.com/HamQ1)**
 
 ## Built with
 * HTML
@@ -12,7 +13,10 @@ This is a webiste for a minecraft anarchy server.
 
 If you have any issues or questions, you can:
 
-Dm me on discord(SpicyHamBoi#8998)
+##Contact the Selium Anarchy owners on discord:
+
+SpicyHamBoi#8998 HamQ1#4016
+
 Post them [here](https://github.com/SpicyHamBoi/Selium-Anarchy-Website/issues)
 
 
