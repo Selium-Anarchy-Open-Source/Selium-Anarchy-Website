@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(50, 43, 54);
+    color: white;
+}
+
+.main-title {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 500px;
+}
+
+.box {
+    background-image: url(../Selium/background.jpg);
+    padding: 350px;
+}
