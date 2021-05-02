@@ -8,7 +8,7 @@ This is a webiste for a minecraft anarchy server.
 
 ## Built with
 * HTML
-* CSS(coming soon)
+* CSS
 
 ## Issues or Questions
 
