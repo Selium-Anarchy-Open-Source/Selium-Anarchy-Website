@@ -4,6 +4,7 @@ This is a webiste for a minecraft anarchy server.
 ## Devlopers
 * **[SpicyHamBoi (@SpicyHamBoi)](https://github.com/SpicyHamBoi)** 
 * **[HamQ1 (@HamQ1)](https://github.com/HamQ1)**
+* **[fxch0 (@fxch0)](https://github.com/fxch0)**
 
 ## Built with
 * HTML
